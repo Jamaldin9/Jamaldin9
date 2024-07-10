@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate software engineering student eage
 
 ## Get in Touch
 
-- 📫 **Email**: Jamal.din001@umb.edu
+- 📫 **Email**: Jamal.din001@umb.edu (mailto:Jamal.din001@umb.edu)
 - 💼 **LinkedIn**: https://www.linkedin.com/in/jamal-din/
 
 Thank you for visiting my profile! Feel free to reach out if you'd like to connect or collaborate on a project.
