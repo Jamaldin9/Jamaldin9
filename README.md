@@ -1,7 +1,7 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Jamal 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/github/followers/your-username?label=follow&style=social)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamal-din/)
+[![GitHub](https://img.shields.io/github/followers/your-username?label=follow&style=social)](https://github.com/Jamaldin9)
 
 Welcome to my GitHub profile! I'm a passionate software engineering student eager to gain hands-on experience through an internship. Here's a bit about me:
 
