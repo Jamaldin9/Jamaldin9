@@ -1,27 +1,61 @@
-# Hi there, I'm Jamal 👋
+👋 Hi, I’m Jamal Din
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamal-din/)
-[![GitHub](https://img.shields.io/github/followers/your-username?label=follow&style=social)](https://github.com/Jamaldin9)
+🎓 B.S. in Computer Science
+University of Massachusetts Boston — Class of 2028
 
-Welcome to my GitHub profile! I'm a passionate software engineering student eager to gain hands-on experience through an internship. Here's a bit about me:
+I’m a software engineering student focused on building strong foundations in backend development, systems, and cloud/security infrastructure. I’m currently expanding my skills in JavaScript and DOM manipulation while continuing to strengthen my Python and Java fundamentals.
 
-## About Me
+⸻
 
-- 🎓 **Education**: University of Massachusetts Boston, BS in Computer Science, 2028
-- 💻 **Skills**: 
-  - Languages:  Python, Java
-  - Web Development: HTML, CSS
-  - Tools: Git, VS Code
-- 🚀 **Projects**: 
-  - Front End Mentor Four Section Card Challenge(https://github.com/Jamaldin9/Front-end-Mentor-s-Four-Card-Section-Challenge): This is a challenge provided
-    by Front End Mentor [https://www.frontendmentor.io/]. The goal was o create a website with 4 cards all based off of a picture given to us. This allowed for me to really get a grasp of CSS and HTML and test my skills.
-  - Front end Mentor QR Code Project [https://github.com/Jamaldin9/Frontend-Mentor-s-QR-Code-Project]: This is anther one of Front End Mentor's Challenges that had us center a QR code onto a page and use CSS
-    to style it according to a photo provided to us. This again allowed for me to use CSS and HTML and test my skills
-- 🌱 **Currently Learning**: JavaScript and DOM
+💻 Technical Skills
 
-## Get in Touch
+Languages:
+	•	Python
+	•	Java
+	•	JavaScript (learning)
 
-- 📫 **Email**: Jamal.din001@umb.edu
-- 💼 **LinkedIn**: https://www.linkedin.com/in/jamal-din/
+Web Development:
+	•	HTML
+	•	CSS
+	•	DOM Manipulation (in progress)
 
-Thank you for visiting my profile! Feel free to reach out if you'd like to connect or collaborate on a project.
+Tools & Workflow:
+	•	Git & GitHub
+	•	VS Code
+	•	Agile task tracking (basic Jira familiarity)
+
+⸻
+
+🚀 Projects
+
+🔹 Frontend Mentor – Four Card Section
+
+GitHub Repository￼
+
+Built a responsive 4-card layout based on a design specification.
+Focused on:
+	•	Advanced CSS layout techniques
+	•	Flexbox positioning
+	•	Responsive design principles
+	•	Clean, semantic HTML structure
+
+⸻
+
+🔹 Frontend Mentor – QR Code Component
+
+GitHub Repository￼
+
+Designed and styled a centered QR code component using CSS.
+Focused on:
+	•	Layout centering techniques
+	•	Typography styling
+	•	Pixel-accurate design replication
+
+⸻
+
+🌱 Currently Learning
+	•	JavaScript fundamentals
+	•	DOM manipulation
+	•	Event-driven programming
+	•	Backend fundamentals in Python
+	•	Software engineering best practices
