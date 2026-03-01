@@ -1,33 +1,32 @@
-👋 Hi, I’m Jamal Din
+# Jamal Din
 
-🎓 B.S. in Computer Science — University of Massachusetts Boston (Class of 2028)
+Computer Science student at UMass Boston  
+Focused on Data Engineering, Backend Systems, and Infrastructure.
 
-I’m a systems-focused computer science student interested in cloud infrastructure, identity & access management, backend engineering, and applied data systems. I enjoy building tools that model real-world enterprise workflows — from financial tracking systems to signal processing pipelines and access control simulations.
+## What I Build
 
-My current focus is strengthening backend architecture, automation, and security fundamentals while preparing for software and infrastructure engineering internships.
+I build production-style systems — not just class projects.
 
-⸻
+- 🔐 **Access Control Simulation Engine** – RBAC engine with structured audit logging (JSONL)  
+- 📊 **Signal Analysis Tool** – Time-series data pipeline with cleaning, feature extraction, and visualization  
+- ☁️ **AWS Flask Project** – Cloud-deployed backend application  
 
-💻 Technical Skills
+## Technical Interests
 
-Languages:
-	•	Python
-	•	Java
-	•	JavaScript (expanding)
+- Data pipelines & ETL
+- Backend systems (Python)
+- SQL & schema design
+- Linux automation
+- Observability & logging
 
-Core Areas:
-	•	Object-Oriented Programming
-	•	Data Structures & Algorithms
-	•	Backend System Design
-	•	Role-Based Access Control (RBAC) Concepts
-	•	Data Processing & Analysis
-	•	ETL & Workflow Automation (foundational)
+## Tech Stack
 
-Tools:
-	•	Git / GitHub
-	•	VS Code
-	•	Linux fundamentals
-	•	Agile workflows (exposure to Jira-style task tracking)
+Python • SQL • Flask • Pandas • Git • Linux • JSONL • REST APIs
+
+---
+
+Actively pursuing Summer 2026 internships in:
+Data Engineering | Software Engineering | Systems | SRE
 
 ⸻
 
